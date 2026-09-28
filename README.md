@@ -5,8 +5,8 @@
 <h1>About me</h1>
 <div >
   
-  full-stack developer with 8+ years of programming and self teach
-
+  Full-stack developer with 8+ years of programming and self teach.
+  I also like to make mods for Minecraft and Hoi4 and many other games :P.
 </div>
 
 <h1>Favorite tools</h1>
