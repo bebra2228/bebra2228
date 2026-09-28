@@ -1,2 +1,4 @@
-<h1 align = "center">pyani flus</h1>
-![Python](https://img.shields.io/badge/python-%233670A0.svg?style=for-the-badge&logo=python&logoColor=ffdd54)
+<h1 align = "center">
+  pyani flus
+</h1>
+<h2 align = "center"><img src="https://media.tenor.com/orWf5O-awQwAAAAi/necoarc-neco.gif" width="150"></h2>
